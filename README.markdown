@@ -1,12 +1,13 @@
 # Field: XML Select Box
 
-* Version: 0.3.3
-* Build Date: 2010-06-02
-* Requirements: Symphony 2.0.2
+* Version: 1.0dev
+* Build Date: 2010-07-12
+* Requirements: Symphony 3
 * Authors:
 	- Nick Dunn <http://github.com/nickdunn/>
 	- Richard Warrender <http://github.com/rwarrender>
 	- Tony Arnold <http://github.com/tonyarnold>
+	- Brendan Abbott <http://github.com/brendo>
 
 ## Installation
 
